@@ -1,0 +1,47 @@
+header{
+text-align: center;
+background-color: black;
+color: azure;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+nav a{
+color: aliceblue;
+text-align: center;
+margin: 10px;
+font-size: 20px;
+}
+h1{
+    font-size: xx-large;
+}
+.contact1{
+    border: solid black;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    padding-left: 10px;
+    background-color: cornsilk;
+}
+button{
+    background-color: black;
+    color: white;
+    font-size: large;
+}
+button :hover{
+    color: blue;
+}
+img{
+border-radius: 10px;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+.div1{
+    border: 2px;
+    border: solid black;
+    padding-top: 12px;
+    margin-top: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+    background-color: cornsilk;
+}
